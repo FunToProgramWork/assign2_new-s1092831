@@ -30,7 +30,7 @@ void draw() {
   x=x+1;
   if (x> 640)
   x = -80;
-  image(cabbage,80,160);
+  image(cabbage,80,320);
   // Switch Game State
     // Game Start
 
